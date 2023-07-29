@@ -16,5 +16,9 @@ console.log(7*36);
 
 // operador division
 
-console.log(36*2);
+console.log(36 % 2);
 
+
+
+//Prueba de precedencia
+console.log(3 + 5 * 2 - 8);
